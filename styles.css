@@ -1,0 +1,25 @@
+body {
+    background-color: #FDFAF7;
+    font-family: Roboto;
+}
+
+.contact-btn {
+    background: burlywood;
+    color: #FFFFFF;
+    border: none;
+    text-transform: uppercase;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px 0px;
+    width: 125px;
+}
+
+.big-image {
+    height: 480px;
+    width: 350px;
+}
+
+.small-image {
+    height: 280px;
+    width: 350px;
+}
