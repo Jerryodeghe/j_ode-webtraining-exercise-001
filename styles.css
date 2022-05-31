@@ -23,3 +23,12 @@ body {
     height: 280px;
     width: 350px;
 }
+
+/* Extra bigger devices (phones, 760px and up) */
+@media only screen and (min-width: 760px) {
+    .big-image,
+    .small-image {
+        width: 100%;
+        height: 350px;
+    }
+}
