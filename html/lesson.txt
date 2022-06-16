@@ -1,0 +1,21 @@
+<tag> // declaration tags
+<tag/> //self closing
+<tag>
+    ...
+</tag> //embedded
+
+1. WHAT DO I NEED TO KNOW
+2. WHAT DO I NEED TO UNDERSTAND
+3. WHAT DO I NEED TO KNOW AND UNDERSTAND
+
+tags are object {}
+tag = 
+{
+ attributes/fields: general & tag specific attributes/fields & user defined
+ methods/functions: general & tag specific methods/functions & user defined
+} 
+
+attributes in programming are key=value
+id=""
+class=""
+name=""
